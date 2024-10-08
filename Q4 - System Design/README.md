@@ -12,6 +12,6 @@ This system integrates data from three different sources: Sales, Inventory, and 
 ### Steps in the ETL Process
 1. Data Ingestion from OLTP to OLAP system
 2. Data Processing
-3. Error Handling
-4. Orchestration to process data changes at different rates
-5. Use an updated Target Table for Business Analysis, Visualization or Machine Learning models.
+3. Orchestration to process data changes at different rates
+4. Use an updated Target Table for Business Analysis, Visualization or Machine Learning models.
+5. Error Handling and Logging
