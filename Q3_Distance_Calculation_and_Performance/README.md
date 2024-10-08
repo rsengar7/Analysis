@@ -11,6 +11,13 @@ For large datasets, performance optimization is critical. The provided solutions
 - Compute the average speed (in meters per second) of each player.
 - Efficiently handle large datasets with both Pandas and PySpark solutions.
 
+### Calculate Distance using Euclidean Distance Formula
+Euclidean distance is a mathematical concept that measures the straight-line distance between two points in a Euclidean space. It is named after the ancient Greek mathematician Euclid, who is often referred to as the "father of geometry". The formula for calculating Euclidean distance is based on the Pythagorean Theorem and can be expressed as:
+
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+
+The Euclidean distance formula is used to calculate the straight-line distance between two points on a 2D plane, based on their x and y coordinates. It measures how far apart the two points are by taking the square root of the sum of the squared differences between their x and y values.
+
 ### Python (Pandas) Implementation
 
 The pandas script is designed to handle moderate-sized datasets and lag with big data:
